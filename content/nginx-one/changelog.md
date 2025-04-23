@@ -30,6 +30,20 @@ h2 {
 
 Stay up-to-date with what's new and improved in the F5 NGINX One Console.
 
+## April 30, 2025
+
+### Alerts on New instance registration 
+
+It allows you to:
+
+- Get notify based on configured alert policy when new instance is registered.
+
+### Alerts on CVEs
+
+It allows you to:
+
+- Get notify based on configured alert policy when instance is impacted by CVE.
+
 ## April 3, 2025
 
 ### Create Custom Roles with more precise permissions
