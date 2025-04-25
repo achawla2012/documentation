@@ -30,6 +30,14 @@ h2 {
 
 Stay up-to-date with what's new and improved in the F5 NGINX One Console.
 
+## April 30, 2025
+
+### Alert on CVEs impacting new instance getting registered in the F5 NGINX One Console.
+We have added ability to alert XC user if there are CVEs impacting new instance getting registered.
+
+### Alert on new CVE impacting registered instances in the F5 NGINX One Console.
+We have added ability to alert XC users on a new CVE impacts registered instances.
+
 ## April 3, 2025
 
 ### Create Custom Roles with more precise permissions
