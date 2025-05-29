@@ -32,11 +32,11 @@ Stay up-to-date with what's new and improved in the F5 NGINX One Console.
 
 ## May 30, 2025
 
-### Alert when instance has config recommendations
+### Alert when instance has config recommendation
 
 We now include an alert in the [F5 Distributed Cloud](https://docs.cloud.f5.com/docs-v2/platform/reference/alerts-reference) when instance has config recommendation.
 
-### Alert when csg has config recommendations
+### Alert when csg has config recommendation
 
 We now include an alert in the [F5 Distributed Cloud](https://docs.cloud.f5.com/docs-v2/platform/reference/alerts-reference) when csg has config recommendation.
 
